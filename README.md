@@ -8,3 +8,5 @@ Labs so far include:
   - DHCP Starvation
   - TLS MitM via ARPSpoof
   - nmap and iptables
+  - Snort
+  - SQLi, XSS (Stored and Reflected), X(C)SRF
