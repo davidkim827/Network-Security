@@ -12,7 +12,7 @@ Tools learned include:
 
 Concepts learned so far include the following:
   - DHCP Starvation
-  - TLS MitM via ARPSpoof
+  - TLS MitM (SSLStrip) via ARPSpoof
   - nmap and iptables
   - Snort
   - SQLi, XSS (Stored and Reflected), X(C)SRF
